@@ -2,7 +2,7 @@
   "name": "csci3916_hw1_harrison_julius",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "mocha --timeout 10000 --slow 0 --exit",
     "start": "node -r dotenv/config server.js"
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/CelloHarri/CSCI3916_HW1_Harrison_Julius/issues"
